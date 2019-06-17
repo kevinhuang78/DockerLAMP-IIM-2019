@@ -1,0 +1,1 @@
+# LAMP under Docker (IIM 2019), lesson with [Pierre Grimaud](https://github.com/pgrimaud)
